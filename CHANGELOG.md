@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/1abhishekpandey/abhishek-kotlin/compare/v1.1.0...v1.1.1) (2025-01-15)
+
+
+### Bug Fixes
+
+* update manifest ([8968553](https://github.com/1abhishekpandey/abhishek-kotlin/commit/8968553def4df1584f1fc6e50128eb7ded32bb39))
+
 ## [1.1.0](https://github.com/1abhishekpandey/abhishek-kotlin/compare/v1.0.0...v1.1.0) (2025-01-15)
 
 
