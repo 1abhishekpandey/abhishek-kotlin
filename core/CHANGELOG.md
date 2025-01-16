@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.6.0](https://github.com/1abhishekpandey/abhishek-kotlin/compare/core-v1.5.0...core-v1.6.0) (2025-01-16)
+
+
+### Features
+
+* update comments ([1936cd4](https://github.com/1abhishekpandey/abhishek-kotlin/commit/1936cd4c7975cf258271cecb4bcb3deaa6c65fec))
+* update comments ([e978889](https://github.com/1abhishekpandey/abhishek-kotlin/commit/e978889a037338232dec1ab39e973d3c4e34b80f))
+* update comments ([ac6c65a](https://github.com/1abhishekpandey/abhishek-kotlin/commit/ac6c65a2dc14cb6dcf3e9b6d5c3a06fa0953d746))
+
 ## [1.5.0](https://github.com/1abhishekpandey/abhishek-kotlin/compare/core-v1.4.0...core-v1.5.0) (2025-01-15)
 
 
