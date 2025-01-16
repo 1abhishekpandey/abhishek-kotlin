@@ -23,7 +23,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          release-please manifest --token="${GITHUB_TOKEN}" \
+          release-please release-pr --token="${GITHUB_TOKEN}" \
+            --repo-url="https://github.com/1abhishekpandey/abhishek-kotlin" \
             --target-branch=main \
             --config-file=releasePlease/release-please-config.json \
             --manifest-file=releasePlease/.release-please-manifest.json
