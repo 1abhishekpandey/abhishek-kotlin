@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/1abhishekpandey/abhishek-kotlin/compare/android-v1.5.0...android-v1.6.0) (2025-01-16)
+
+
+### Features
+
+* add comments core and android ([5e39bb4](https://github.com/1abhishekpandey/abhishek-kotlin/commit/5e39bb42782aa15c7b3805e409cfb4b320ee3646))
+
 ## [1.5.0](https://github.com/1abhishekpandey/abhishek-kotlin/compare/android-v1.4.0...android-v1.5.0) (2025-01-15)
 
 
